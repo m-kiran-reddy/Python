@@ -1,7 +1,7 @@
 import numpy as np
 
-num_arr1 = [10, 20, 30, 40, 50]
-num_arr2 = [1,  2,  3,  4,  5]
+num_arr1 = np.array([10, 20, 30, 40, 50])
+num_arr2 = np.array([1,  2,  3,  4,  5])
 
 print(f"Addition: {np.add(num_arr1, num_arr2)}")
 print(f"Subtraction: {np.subtract(num_arr1, num_arr2)}")
