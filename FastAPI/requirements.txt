@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+mysql-connector-python
+uvicorn
+requests
